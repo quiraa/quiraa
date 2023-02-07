@@ -32,8 +32,8 @@ I'm interested in Web & Mobile Programming and Application Design. Trying to alw
 # 💻 My Device:
 <pre class="notranslate">
   <code>
-Currently I'm using <b>Windows</b> as my platform for developing programs. I've been using <b>Acer Aspire 5 A515-45</b> as my daily driver.
 🪟 · Windows
+Currently I'm using <b>Windows</b> as my platform for developing programs. I've been using <b>Acer Aspire 5</b> as my daily driver.
 </code>
 </pre>
 
