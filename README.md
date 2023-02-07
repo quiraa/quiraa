@@ -31,9 +31,9 @@ Wanna see my Design Portfolio? <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aryadzikra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felfeit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/j3remyhk) 
 
 # 📊 My Stats:
-![](https://github-readme-stats.vercel.app/api?username=quiraa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quiraa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=quiraa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quiraa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 My Trophies
-![](https://github-profile-trophy.vercel.app/?username=quiraa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=quiraa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
