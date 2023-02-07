@@ -4,10 +4,14 @@
 I'm interested in Web & Mobile Programming and Application Design. Trying to always learn something new and being discipline.
 
 # 🧠 Softskill:
+<pre class="notranslate">
+  <code>
 - 🤔 Problem Solving B+
 - 🇬🇧  English A-
 - 📊 Analysis A
 - 🖌️ Graphic Design A-
+  </code>
+</pre>
 
 #
 
