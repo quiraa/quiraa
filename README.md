@@ -38,12 +38,8 @@ Currently I'm using <b>Windows</b> as my platform for developing programs. I've 
 </pre>
 
 # 🖼️ My Portfolio:
-<pre class="notranslate">
-  <code>
 Wanna see my Design Portfolio? <br>
-🔗 <a href="https://www.behance.net/aryadzikra)">Click this link!</a>
-</code>
-</pre>
+- 🔗 <a href="https://www.behance.net/aryadzikra)">Click this link!</a>
 
 #
 
