@@ -6,10 +6,10 @@ I'm interested in Web & Mobile Programming and Application Design. Trying to alw
 # 🧠 Softskill:
 <pre class="notranslate">
   <code>
-- 🤔 Problem Solving B+
-- 🇬🇧  English A-
-- 📊 Analysis A
-- 🖌️ Graphic Design A-
+🤔 · Problem Solving B+
+💬 · English A-
+📊 · Analysis A
+🖌️ · Graphic Design B+
   </code>
 </pre>
 
@@ -18,12 +18,12 @@ I'm interested in Web & Mobile Programming and Application Design. Trying to alw
 # 🛠️ Languages I Used:
 <pre class="notranslate">
   <code>
-- 🌐 HTML
-- 🎨 CSS
-- ☕ Java
-- 🤖 Kotlin
-- 🧱 XML
-- 🗿 PHP
+🌐 · HTML
+🎨 · CSS
+☕ · Java
+🤖 · Kotlin
+🧱 · XML
+🗿 · PHP
 </code>
 </pre>
 
@@ -33,7 +33,7 @@ I'm interested in Web & Mobile Programming and Application Design. Trying to alw
 <pre class="notranslate">
   <code>
 Currently I'm using <b>Windows</b> as my platform for developing programs. I've been using <b>Acer Aspire 5 A515-45</b> as my daily driver.
-- 🪟 Windows
+🪟 · Windows
 </code>
 </pre>
 
