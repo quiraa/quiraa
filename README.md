@@ -1,16 +1,39 @@
-### Hi there 👋
+<img src="Banner.png">
 
-<!--
-**quiraa/quiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arya
+I'm interested in Web & Mobile Programming and Application Design. Trying to always learn something new and being discipline.
 
-Here are some ideas to get you started:
+# 🧠 Softskill:
+- 🤔 Problem Solving B+
+- 🇬🇧  English A-
+- 📊 Analysis A
+- 🖌️ Graphic Design A-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+# 🛠️ Languages I Used:
+- 🌐 HTML
+- 🎨 CSS
+- ☕ Java
+- 🤖 Kotlin
+- 🧱 XML
+- 🗿 PHP
+
+#
+
+# 🖼️ My Portfolio:
+Wanna see my Design Portfolio? <br>
+🔗 <a href="https://www.behance.net/aryadzikra)">Click this link!</a>
+
+#
+
+# 🌐 My Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aryadzikra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felfeit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/j3remyhk) 
+
+# 📊 My Stats:
+![](https://github-readme-stats.vercel.app/api?username=quiraa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quiraa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 🏆 My Trophies
+![](https://github-profile-trophy.vercel.app/?username=quiraa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
