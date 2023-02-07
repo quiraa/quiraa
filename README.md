@@ -1,4 +1,4 @@
-![Banner](https://github.com/quiraa/Banner.png)
+<img src="Banner.png">
 
 # Hi, I'm Arya
 I'm interested in Web & Mobile Programming and Application Design. Trying to always learn something new and being discipline.
