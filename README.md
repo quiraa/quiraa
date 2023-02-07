@@ -16,22 +16,34 @@ I'm interested in Web & Mobile Programming and Application Design. Trying to alw
 #
 
 # 🛠️ Languages I Used:
+<pre class="notranslate">
+  <code>
 - 🌐 HTML
 - 🎨 CSS
 - ☕ Java
 - 🤖 Kotlin
 - 🧱 XML
 - 🗿 PHP
+</code>
+</pre>
 
 #
 
 # 💻 My Device:
+<pre class="notranslate">
+  <code>
 Currently I'm using <b>Windows</b> as my platform for developing programs. I've been using <b>Acer Aspire 5 A515-45</b> as my daily driver.
 - 🪟 Windows
+</code>
+</pre>
 
 # 🖼️ My Portfolio:
+<pre class="notranslate">
+  <code>
 Wanna see my Design Portfolio? <br>
 🔗 <a href="https://www.behance.net/aryadzikra)">Click this link!</a>
+</code>
+</pre>
 
 #
 
