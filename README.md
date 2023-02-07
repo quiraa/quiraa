@@ -23,6 +23,7 @@ I'm interested in Web & Mobile Programming and Application Design. Trying to alw
 
 # 💻 My Device
 Currently I'm using Windows as my platform for developing programs. I've been using Acer Aspire 5 A515-45 as my daily driver.
+- 🪟 Windows
 
 # 🖼️ My Portfolio:
 Wanna see my Design Portfolio? <br>
