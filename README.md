@@ -59,10 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/quiraa/quiraa/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">👌 - Others</h2>
 
 ###
