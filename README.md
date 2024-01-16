@@ -63,7 +63,7 @@
 
 ###
 
-<h4 align="left">Other Skills</h4>
+<h4 align="left">🎨 - Other Skills</h4>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h4 align="left">Check Out My Social Media Too!</h4>
+<h4 align="left">🌐 - Check Out My Social Media Too!</h4>
 
 ###
 
