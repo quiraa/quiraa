@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Continuously Growing My Skills</p>
+<p align="left">Junior Software Developer, Mostly Programming in Kotlin for Making Android Apps</p>
 
 ###
 
