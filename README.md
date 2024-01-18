@@ -37,8 +37,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="bootstrap logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="kotlin logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=dart" height="48" alt="dart logo"  />
