@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="bootstrap logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
 </div>
 
 ###
@@ -81,13 +83,13 @@
 
 <div align="left">
   <a href="https://www.instagram.com/aryadzkr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" width="52" alt="instagram logo"  />
   </a>
   <a href="discordapp.com/users/636131539020808192" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" width="52" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/aryadzikra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="52" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/aryadzikra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
