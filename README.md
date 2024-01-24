@@ -91,12 +91,6 @@
   <a href="https://www.linkedin.com/in/aryadzikra/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="56" width="64" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/aryadzikra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="56" height="64" alt="behance logo"  />
-  </a>
-  <a href="https://medium.com/@aryadavicenna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="56" height="64" alt="medium logo"  />
-  </a>
 </div>
 
 ###
