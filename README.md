@@ -11,19 +11,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="56" alt="firebase logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="56" alt="flutter logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="56" alt="androidstudio logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="56" alt="vscode logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="56" alt="bootstrap logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="56" alt="postman logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="56" alt="react logo"  />
 </div>
 
 ###
@@ -33,17 +33,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="56" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="56" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="56" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="56" alt="kotlin logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dart" height="48" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="56" alt="dart logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="56" alt="java logo"  />
 </div>
 
 ###
@@ -68,11 +68,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="56" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="56" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="56" alt="figma logo"  />
 </div>
 
 ###
@@ -83,19 +83,19 @@
 
 <div align="left">
   <a href="https://www.instagram.com/aryadzkr/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" width="52" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="56" width=64" alt="instagram logo"  />
   </a>
   <a href="discordapp.com/users/636131539020808192" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" width="52" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="56" width="64" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/aryadzikra/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="52" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="56" width="64" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/aryadzikra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="56" height="64" alt="behance logo"  />
   </a>
   <a href="https://medium.com/@aryadavicenna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="56" height="64" alt="medium logo"  />
   </a>
 </div>
 
